@@ -2,3 +2,5 @@ Here! We will list out famous Algorithms-
 N-Queen's Problem
 Dinning Philisopher's problem
 waterjug problem
+Knap sack problem
+Binary Search Algorithm 
