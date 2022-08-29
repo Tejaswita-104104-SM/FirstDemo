@@ -4,3 +4,6 @@ Dinning Philisopher's problem
 waterjug problem
 Knap sack problem
 Binary Search Algorithm 
+
+
+Thank you
