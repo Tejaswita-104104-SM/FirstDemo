@@ -6,7 +6,16 @@ Knap sack problem
 Binary Search Algorithm 
 
 
+Sorting algorithms
+Dijkastra's Algorithm
+
+
 Thank you
+ branch1
+ 
+ 
+ Done with Branch1
 
 
 final text from main
+
